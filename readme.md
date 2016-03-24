@@ -1,6 +1,6 @@
 # Tmux Cmus
 
-Adds an embeddable status widget anywhere on your tmux status bar
+Adds an embeddable cmus status widget anywhere on your tmux status bar. Automatically truncates.
 
 Only tested on OSX, windows support forthcomming (switching back to Windows personally)
 
