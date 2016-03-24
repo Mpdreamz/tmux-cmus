@@ -4,11 +4,11 @@ Adds an embeddable status widget anywhere on your tmux status bar
 
 Only tested on OSX, windows support forthcomming (switching back to Windows personally)
 
-### Exampple
+### Example
 
 ![Example](example.jpg)
 
-The icon indicates whether cmus is actuall playing
+The icon indicates whether cmus is actually playing
 
 ### Key bindings
 
