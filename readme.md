@@ -6,7 +6,7 @@ Only tested on OSX, windows support forthcomming (switching back to Windows pers
 
 ### Exampple
 
-![Example](example.png)
+![Example](example.jpg)
 
 The icon indicates whether cmus is actuall playing
 
